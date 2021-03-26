@@ -29,7 +29,7 @@ iv. **Olympians · [Shiny app](https://kiml1.shinyapps.io/olympian/) · [Repo](h
    - Explored the existence of a relationship between economic power and medal counts.
 
 
-5. **_HACKATHON WINNER_ -  Price-Setting Strategies for Electronics Sellers · [Article](https://nycdatascience.com/blog/student-works/price-setting-strategies-for-electronics-sellers/) · [Repo](https://github.com/sitathomas/NYCDSA_Hackathon_720)**
+v. **_HACKATHON WINNER_ -  Price-Setting Strategies for Electronics Sellers · [Article](https://nycdatascience.com/blog/student-works/price-setting-strategies-for-electronics-sellers/) · [Repo](https://github.com/sitathomas/NYCDSA_Hackathon_720)**
    - Designed both pricing and marketing approaches to maximize revenue for three product tiers.
    - Visualized competitor product data, including pricing strategies, use of sales, and value-added offerings.
 
