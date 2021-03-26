@@ -34,7 +34,7 @@ v. **_HACKATHON WINNER_ -  Price-Setting Strategies for Electronics Sellers · [
    - Visualized competitor product data, including pricing strategies, use of sales, and value-added offerings.
 
 
-### Languages and Tools 🛠 
+### Languages and Tools 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
