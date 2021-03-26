@@ -10,28 +10,23 @@ Finished two bootcamps on Data Science and Full-stack development.
 
 ### Projects
 i. **Identifying Provider Fraud for Healthcare Insurers · [Article](https://nycdatascience.com/blog/student-works/capstone/identifying-provider-fraud-for-healthcare-insurers/) · [Repo](https://github.com/kiml1/Healthcare_Fraud)**
-   - Labeled potentially dishonest medical providers, assessed revenue impacts, and proposed fraud policies.
-   - Achieved high performance with K-nearest Neighbors and Gradient Boosting Decision Tree Classifiers.
+   - Developed machine learning model to help insurance companies save $100,000 annually by predicting fraudulent claims.
 
 
 ii. **Predicting and Maximizing Home Values for Data Mining Firms · [Article](https://nycdatascience.com/blog/student-works/machine-learning/predicting-and-maximizing-home-values-for-data-mining-firms/) · [Repo](https://github.com/kiml1/HousingPricePrediction_ML)**
-   - Created real estate price prediction model from home sales data and identified target buyers for the tool.
-   - Achieved a low Root Mean Squared Log Error with Linear & Gradient Boosting Decision Tree Regressors.
+   - Created stacked machine learning models to produce high accuracy real estate pricing predictions and to identify features key for increasing sale price.
 
 
 iii. **eSports · [Shiny app](https://kiml1.shinyapps.io/eSports/) · [Repo](https://github.com/kiml1/eSports)**
    - Scraped over 40,000 eSports tournament records with Scrapy to examine the growth of interest and investments in the industry.
-   - Created an interactive webapp to visualize effects of the pandemic in eSports.
 
 
 iv. **Olympians · [Shiny app](https://kiml1.shinyapps.io/olympian/) · [Repo](https://github.com/sitathomas/NYCDSA_Hackathon_720)**
-   - Built a web app with R Shiny to perform interactive data analysis on historic data from the Olympics.
-   - Explored the existence of a relationship between economic power and medal counts.
+   - Built a web app with R Shiny to perform interactive data analysis on historic data from the Olympics and explore the existence of a relationship between economic power and medal counts.
 
 
 v. **_HACKATHON WINNER_ -  Price-Setting Strategies for Electronics Sellers · [Article](https://nycdatascience.com/blog/student-works/price-setting-strategies-for-electronics-sellers/) · [Repo](https://github.com/sitathomas/NYCDSA_Hackathon_720)**
-   - Designed both pricing and marketing approaches to maximize revenue for three product tiers.
-   - Visualized competitor product data, including pricing strategies, use of sales, and value-added offerings.
+   - Designed and recommended a pricing and business plan for different TV models by investigating competitors’ pricing, sales and market share.
 
 
 ### Languages and Tools 
